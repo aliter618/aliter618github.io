@@ -95,14 +95,14 @@ button {
     }
 
     button {
-        font-size: 18px; /* 固定字体大小 */
+        font-size: 28px; /* 固定字体大小 */
     }
 
     .yes-text {
-        font-size: 6px; /* 固定字体大小 */
+        font-size: 18px; /* 固定字体大小 */
     }
 
     .yes-image {
-        width: 50px; /* 固定图片宽度 */
+        width: 300px; /* 固定图片宽度 */
     }
 }
