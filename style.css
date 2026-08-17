@@ -90,12 +90,12 @@ button {
     }
 
     h1 {
-        font-size: 28px; /* 固定字体大小 */
+        font-size: 18px; /* 固定字体大小 */
         margin: 20px 0;
     }
 
     button {
-        font-size: 18px; /* 固定字体大小 */
+        font-size: 12px; /* 固定字体大小 */
     }
 
     .yes-text {
