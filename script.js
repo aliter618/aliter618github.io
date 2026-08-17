@@ -52,8 +52,8 @@ noButton.addEventListener("click", function () {
   if (clickCount === 1) mainImage.src = "images/13431442506297486.gif.png"; // 送花
   if (clickCount === 2) mainImage.src = "images/13431443137431326.gif"; // 坚强
   if (clickCount === 3) mainImage.src = "images/13431443067202377.pngg"; // 流小珍珠
-  if (clickCount === 4) mainImage.src = "images/crying.png"; // 哭
-  if (clickCount >= 5) mainImage.src = "images/crying.png"; // 之后一直是哭
+  if (clickCount === 4) mainImage.src = "images/13431443513120477.png"; // 哭
+  if (clickCount >= 5) mainImage.src = "images/13431443513120477.png"; // 之后一直是哭
 });
 
 // Yes 按钮点击后，进入表白成功页面
