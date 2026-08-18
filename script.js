@@ -49,7 +49,7 @@ noButton.addEventListener("click", function () {
   }
 
   // 图片变化（前 5 次变化）
-  if (clickCount === 1) mainImage.src = "images/13431442506297486.gif"; // 送花
+  if (clickCount === 1) mainImage.src = "images/13431443137431326.gif"; // 坚强
   if (clickCount === 2) mainImage.src = "images/13431443137431326.gif"; // 坚强
   if (clickCount === 3) mainImage.src = "images/13431443067202377.png"; // 流小珍珠
   if (clickCount === 4) mainImage.src = "images/13431443513120477.png"; // 哭
