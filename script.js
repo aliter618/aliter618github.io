@@ -67,7 +67,7 @@ yesButton.addEventListener("click", function () {
   document.body.innerHTML = `
         <div class="yes-screen">
             <h1 class="yes-text"></h1>
-            <img src="images/hug.png" alt="拥抱" class="yes-image">
+            <img src="iimages/13431523676244858.png" alt="拥抱" class="yes-image">
         </div>
     `;
 
